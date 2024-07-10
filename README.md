@@ -1,9 +1,13 @@
 ## Explorers
 
-[https://explorer.evm.iota.org](https://explorer.evm.iota.org "IOTA Mainnet")
-(https://explorer.evm.testnet.iotaledger.net "IOTA Testnet")
-(https://explorer.evm.shimmer.network "Shimmer Mainnet")
-(https://explorer.evm.testnet.shimmer.network "Shimmer Testnet")
+[IOTA Mainnet (https://explorer.evm.iota.org)](https://explorer.evm.iota.org "IOTA Mainnet")
+[IOTA Testnet (https://explorer.evm.testnet.iotaledger.net)](https://explorer.evm.testnet.iotaledger.net "IOTA Testnet")
+[Shimmer Mainnet (https://explorer.evm.shimmer.network](https://explorer.evm.shimmer.network "Shimmer Mainnet")
+[Shimmer Testnet (https://explorer.evm.testnet.shimmer.network)](https://explorer.evm.testnet.shimmer.network "Shimmer Testnet")
+
+| Chain | ID | RPC | Explorer |
+| --- | --- | --- | --- |
+| IOTA Mainnet | 8822 | https://explorer.evm.testnet.iotaledger.net | [IOTA Mainnet (https://explorer.evm.iota.org)](https://explorer.evm.iota.org "IOTA Mainnet") | 
 
 
 ## IOTA EVM MAINNET
