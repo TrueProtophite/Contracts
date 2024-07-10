@@ -14,7 +14,7 @@
 ## Testnet
 | Chain | ID | RPC | Explorer |
 | --- | --- | --- | --- |
-| IOTA | 1075 | https://json-rpc.evm.testnet.iotaledger.net | https://explorer.evm.testnet.iotaledger.net |
+| IOTA | 1075 |            https://json-rpc.evm.testnet.iotaledger.net | https://explorer.evm.testnet.iotaledger.net |
 | Shimmer | 1073 | https://json-rpc.evm.testnet.shimmer.network | https://explorer.evm.testnet.shimmer.network |
 
 ## IOTA EVM MAINNET
