@@ -1,10 +1,18 @@
-## IOTA EVM MAINNET
+## Explorers
 
-```code
+[https://explorer.evm.iota.org](https://explorer.evm.iota.org "IOTA Mainnet")
+(https://explorer.evm.testnet.iotaledger.net "IOTA Testnet")
+(https://explorer.evm.shimmer.network "Shimmer Mainnet")
+(https://explorer.evm.testnet.shimmer.network "Shimmer Testnet")
+
+
+## IOTA EVM MAINNET
 
 ```
 
-## IOTA EVM TESTNET
+```
+
+## IOTA EVM Testnet
 
 ### Pharaoh Dummy
 ```
