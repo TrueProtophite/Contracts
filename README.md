@@ -5,10 +5,17 @@
 [Shimmer Mainnet (https://explorer.evm.shimmer.network](https://explorer.evm.shimmer.network "Shimmer Mainnet")
 [Shimmer Testnet (https://explorer.evm.testnet.shimmer.network)](https://explorer.evm.testnet.shimmer.network "Shimmer Testnet")
 
+## Mainnet
 | Chain | ID | RPC | Explorer |
 | --- | --- | --- | --- |
-| IOTA Mainnet | 8822 | https://explorer.evm.testnet.iotaledger.net | [IOTA Mainnet (https://explorer.evm.iota.org)](https://explorer.evm.iota.org "IOTA Mainnet") | 
+| IOTA | 8822 | https://json-rpc.evm.iotaledger.net | https://explorer.evm.iota.org | 
+| Shimmer | 148 | https://json-rpc.evm.shimmer.network | https://explorer.evm.shimmer.network |
 
+## Testnet
+| Chain | ID | RPC | Explorer |
+| --- | --- | --- | --- |
+| IOTA | 1075 | https://json-rpc.evm.testnet.iotaledger.net | https://explorer.evm.testnet.iotaledger.net |
+| Shimmer | 1073 | https://json-rpc.evm.testnet.shimmer.network | https://explorer.evm.testnet.shimmer.network |
 
 ## IOTA EVM MAINNET
 
